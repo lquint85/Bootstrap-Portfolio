@@ -174,8 +174,8 @@ body {
   .auth-image {
     float: left;
     width: 200px;
-    height: auto;
-    margin-top: 10px;
+    height: 210px;
+    margin-top: auto;
     margin-right: 25px;
   }
   
