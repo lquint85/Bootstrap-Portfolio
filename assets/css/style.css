@@ -17,6 +17,7 @@ body {
     max-width: 960px;
     margin: 0 auto;
     clear: both;
+    
   }
   
   h1,
@@ -55,11 +56,11 @@ body {
   #masthead {
     position: fixed;
     z-index: 99;
-    width: 99%;
+    width: 100%;
     margin: 0 0 30px;
     overflow: auto;
     color: #fff;
-    background: #fff;
+    background: #383d41;
     margin-top: 0px;
     border-bottom: 2px solid #ccc;
     
@@ -79,13 +80,22 @@ body {
     text-decoration: none;
     background: #4aaaa5;
     margin-left: -120px;
+    margin-right: 133px;
+    margin-bottom: 0px;
   }
   
   nav {
     float: right;
-    margin-top: 25px;
-    margin-left: 200px;
-    margin-right: -150px;
+    margin-top: -91px;
+    margin-left: 763px;
+    margin-right: 0px;
+    margin-bottom: -90px;
+    padding: 30px;
+    width: 1139px;
+    height: 91px;
+    
+
+
   }
   
   nav a {
@@ -105,7 +115,7 @@ body {
   /* footer */
   
   footer {
-    padding: 30px 0;
+    padding: 0px;
     clear: both;
     font-size: 12px;
     color: #fff;
@@ -223,3 +233,28 @@ body {
     background: #4aaaa5;
     border: 0 none;
   }
+ .container-tainer {
+   background:#4aaaa5;
+   margin-top: -670px;
+   margin-right: 327px;
+   float:right;
+   padding: 86px;
+   height: 350px;
+   width: 350px;
+}
+ .row {
+   float: center;
+   margin-left: -30px;
+   margin-right: 1238px;
+   width: 200px;
+   background:;
+   
+}
+ #column {
+   background:;
+   height: 10px;
+   width: 20px;
+   padding: 1s0px;
+
+
+ }
